@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhinavshukla152005-beep.github.io/sitemap.xml
